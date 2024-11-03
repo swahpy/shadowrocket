@@ -25,7 +25,7 @@ Youtube=select,🇺🇸US,🇭🇰HK,🇸🇬SG,select=0
 Disney=select,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
 Viu=select,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
 Udemy=select,🇹🇷TR,🇭🇰HK,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
-Openai=select,🇭🇰HK,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
+Openai=select,🇺🇸US,🇭🇰HK,🇸🇬SG,🇨🇳TW,select=0
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/YouTube/YouTube.list,Youtube
