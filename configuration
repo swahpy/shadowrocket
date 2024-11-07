@@ -14,7 +14,7 @@ dns-direct-fallback-proxy = true
 udp-policy-not-supported-behaviour = DIRECT
 
 [Proxy Group]
-Proxy=select,Enet,interval=1800,timeout=5,tolerance=10,select=0,url=http://www.gstatic.com/generate_204
+Proxy=select,PROXY,Enet,快猫,BYWAVE,interval=1800,timeout=5,tolerance=10,select=0,url=http://www.gstatic.com/generate_204
 🇭🇰HK=select,policy-regex-filter=香港,interval=1800,timeout=5,tolerance=10,select=0,url=http://www.gstatic.com/generate_204
 🇨🇳TW=select,policy-regex-filter=台湾,interval=1800,timeout=5,tolerance=10,select=0,url=http://www.gstatic.com/generate_204
 🇸🇬SG=select,policy-regex-filter=新加坡,interval=1800,timeout=5,tolerance=10,select=0,url=http://www.gstatic.com/generate_204
