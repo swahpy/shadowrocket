@@ -27,6 +27,7 @@ Viu=select,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
 Udemy=select,🇹🇷TR,🇭🇰HK,🇸🇬SG,🇨🇳TW,🇺🇸US,select=0
 Openai=select,🇺🇸US,🇭🇰HK,🇸🇬SG,🇨🇳TW,select=0
 Friday=select,🇨🇳TW,select=0
+Hbomax=select,🇺🇸US,🇨🇳TW,select=0
 Hbogo=select,🇨🇳TW,select=0
 
 [Rule]
@@ -36,6 +37,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/hea
 RULE-SET,https://raw.githubusercontent.com/swahpy/shadowrocket/refs/heads/main/udemy.list,Udemy
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/OpenAI/OpenAI.list,Openai
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/friDay/friDay.list,Friday
+RULE-SET,https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/HBOUSA/HBOUSA.list,Hbomax
 RULE-SET,https://github.com/blackmatrix7/ios_rule_script/raw/refs/heads/master/rule/Shadowrocket/HBOAsia/HBOAsia.list,Hbogo
 RULE-SET,https://raw.githubusercontent.com/swahpy/shadowrocket/refs/heads/main/direct.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/Lan/Lan.list,DIRECT
